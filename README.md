@@ -2,7 +2,6 @@
 A simple utitlity script which will show the bus timings of two popular bus services from kolkata to durgapur
 
 Modules required:
-requests
 it can be installed using pip
 sudo pip install requests
 
